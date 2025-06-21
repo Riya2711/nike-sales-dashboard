@@ -8,4 +8,5 @@ An interactive sales dashboard built using Power BI to analyze Nike’s performa
 - Top cities by profit: Charleston, New York, Miami
 - Filters used: Year, Region, Sales Method
 - Tools: Power BI, Excel
-- 
+- ![Screenshot 2025-06-21 131755](https://github.com/user-attachments/assets/d48bed33-ce14-45f5-ba34-5dce0d94b0b2)
+
